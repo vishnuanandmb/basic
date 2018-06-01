@@ -1,18 +1,14 @@
-[
-    {
-        "colorName":"Shapes"
-      
-    },
-    {
-        "colorName":"Theorems"
-      
-    },
-    {
-        "colorName":"Formulas"
-       
-    },
-    {
-        "colorName":"Find percentage"
-       
-    }
-]
+	<html>
+							<body>
+								<img id="xxxx"  alt="Smiley face" width="42" height="42">
+								<script>
+                                init();
+                                function init(){
+                                    var img = document.getElementById("xxxx");
+                                     img.src = "http://via.placeholder.com/350x150";
+                                }
+
+
+								</script>
+							</body>
+						</html>
